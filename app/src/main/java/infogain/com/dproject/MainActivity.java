@@ -16,6 +16,7 @@ public class MainActivity extends Activity {
 
         StringBuffer buffer = new StringBuffer();
 
+        String val = "Divyanshutest";
 
     }
 
