@@ -1,15 +1,11 @@
 package infogain.com.dproject.Fragments;
 
 import android.app.Activity;
+import android.app.Fragment;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.app.Fragment;
-import android.app.FragmentManager;
-import android.app.FragmentTransaction;
 import android.view.View;
-import infogain.com.dproject.Fragments.FragmentTwo;
-import infogain.com.dproject.Fragments.PlusOneFragment;
 
 import infogain.com.dproject.R;
 
@@ -31,6 +27,8 @@ public class FragmentsActivity extends Activity  {
         return true;
     }
 
+
+    //Stunt
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
